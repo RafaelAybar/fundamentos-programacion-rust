@@ -24,11 +24,14 @@ Fundamentos de programación preparada por libre
     - Punteros:
     - Estructuras de control:
     - Excepciones:
-    
+
 ## Base práctica
 
 2. Ejemplos de código.
     - Elementos básicos:
+        - Gestión de ficheros:
+        - Gestión de fechas:
+        - Operaciones matemáticas básicas:
     - Testing:
     - Gestión de trazas y errores:
     - Debugger:
