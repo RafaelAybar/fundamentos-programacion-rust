@@ -14,6 +14,10 @@ Fundamentos de programación preparada por libre
         - Bajo nivel
     
     - Compilador:
+    - Funciones:
+    - Paso por referencia:
+    - Paso por parámetro:
+    - Recursividad:
     - Variable:
         - Tipos:
     - Bytecode:
@@ -32,6 +36,9 @@ Fundamentos de programación preparada por libre
         - Gestión de ficheros:
         - Gestión de fechas:
         - Operaciones matemáticas básicas:
+        - Acceso DB:
+            - Postgres:
+            - MySQL:
     - Testing:
     - Gestión de trazas y errores:
     - Debugger:
