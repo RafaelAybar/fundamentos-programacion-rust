@@ -5,18 +5,23 @@ Fundamentos de programación preparada por libre
 
 1. Definciones.
     - **Hardware**: Parte tangible de un sistema informático, es decir, componentes eléctricos, electróncicos y electromecánicos.
+   
     - **Software**: Conjunto de instrucciones que comunican a una máquina cómo trabajar.
         - Tipos según el campo de uso:
             - Sistemas operativos.
             - Aplicaciones.
             - Aplicaciones de sistema.
             - Controladores de dispositivos.
+            
     - **Biblioteca / librería**: Conjunto de implementaciones funcionales codificadas en un lenguaje de programación que ofrecen una interfaz bien definida para la funcionalidad que se invoca.
         - Tipos de liberías:
-            - Estáticas:
-            - Dinámicas:
+            - Estáticas: Las bibliotecas estáticas son ficheros que en el proceso de enlazado, en la compilación, serán copiados
+            y relocalizados (si es necesario) en el fichero ejecutable final.
+            - Dinámicas: Las bibliotecas dinámicas son ficheros que contienen código independiente de su ubicación,
+            es decir, están preparadas para ser requeridas y cargadas en tiempo y ejecución por cualquier programa.
             - Remotas:
         - Relocalización:
+    
     - **Sistema operativo**:
         - Kernel:
         - Sistema de ficheros:
