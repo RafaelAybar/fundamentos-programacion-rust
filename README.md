@@ -39,8 +39,10 @@ Fundamentos de programación preparada por libre
     uso del hardware que requiere cada aplicación.
 
 
-  - Sistema de ficheros:
-  - Memoria RAM:
+  - Sistema de ficheros: Es el método que permite estrucutrar los datos que usa el sistema operativo para controlar cómo se gestionan los datos.
+
+
+  - Memoria:
 
 
 - **Lenguaje de programación**:
