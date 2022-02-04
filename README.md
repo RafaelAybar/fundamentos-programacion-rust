@@ -106,7 +106,8 @@ Fundamentos de programación preparada por libre
 
 ## Base práctica
 
-2. Ejemplos de código.
+1. Ejemplos de código.
+
     - Elementos básicos:
         - **Gestión de ficheros**:
         - **Gestión de fechas**:
@@ -119,4 +120,5 @@ Fundamentos de programación preparada por libre
     - **Gestión de trazas y errores**:
     - **Debugger**:
 
-3. Bibliografía.
+
+## Bibliografía.
