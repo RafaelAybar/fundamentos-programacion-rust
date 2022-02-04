@@ -46,13 +46,18 @@ Fundamentos de programación preparada por libre
 
 
 - **Lenguaje de programación**:
-    - Interpretado.
-    - Compilado.
-    - Alto nivel.
-    - Bajo nivel.
+    - Categorizados en:
+      - Interpretado.
+      - Compilado.
+      - Alto nivel.
+      - Bajo nivel.
 
 
-- **Compilador**:
+- **Compilador**: Es el software que traduce código escrito en un lenguaje de programación a código máquina, código objeto o ensamblador para crear un fichero ejecutable.
+  - Tipos de compiladores:
+    - Compiladores cruzados.
+    - Un paso / múltiples pasos.
+    - JIT (Just in time): Este tipo de compiladores formamn parte de un intérprete y compila "partes del código" según se necesitan.
 
 
 - **Funciones**:
