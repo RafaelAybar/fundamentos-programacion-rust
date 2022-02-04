@@ -35,14 +35,14 @@ Fundamentos de programación preparada por libre
     - Embebidos.
 
 
-  - Kernel: Es el software esencial del sistema operativo que permite la comunicación entre aplicaciones y gestionar el
+  - **Kernel**: Es el software esencial del sistema operativo que permite la comunicación entre aplicaciones y gestionar el
     uso del hardware que requiere cada aplicación.
 
 
-  - Sistema de ficheros: Es el método que permite estrucutrar los datos que usa el sistema operativo para controlar cómo se gestionan los datos.
+  - **Sistema de ficheros**: Es el método que permite estrucutrar los datos que usa el sistema operativo para controlar cómo se gestionan los datos.
 
 
-  - Memoria:
+  - **Memoria**:
 
 
 - **Lenguaje de programación**:
