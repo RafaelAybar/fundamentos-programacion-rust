@@ -108,8 +108,12 @@ Fundamentos de programación preparada por libre
 - **Refactorización**:
 
 
-- **API**:
-  - REST:
+- **API**: Application programming interface,  es un tipo de interfaz de Software ofreciendo una capa de abstracción entre servicios. Uno de los principales propósitos es
+permitir y facilitar la documentación entre software. No están diseñadas para ser usadas por el usuario final.
+  - Según arquitectura:
+    - REST:
+    - SOAP:
+    - RPC:
 
 
 - **ABI**:
