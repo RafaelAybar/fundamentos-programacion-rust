@@ -59,6 +59,9 @@ Fundamentos de programación preparada por libre
       - Bajo nivel.
 
 
+- **Algoritmo**: Es una secuencia de instrucciones bien definida para resolver un problema o procesar algo.
+
+
 - **Compilador**: Es el software que traduce código escrito en un lenguaje de programación a código máquina, código objeto o ensamblador para crear un fichero ejecutable.
   - Tipos de compiladores:
     - Compiladores cruzados.
@@ -69,7 +72,19 @@ Fundamentos de programación preparada por libre
 
 
 - **Variable**: Es un "almacenamiento abstracto" asociado a un nombre simbólco asociado a dicho espacio, el cual contiene un valor (conocido, o desconocido).
-  - Tipos:
+  - Tipos según la longitud:
+    - Fija.
+    - Dinámica.
+  - Tipos según el dato que almacenan:
+    - Entero.
+    - Lógico / Booleano.
+    - Carácter.
+    - String. (Suelen ser cadenas de carácteres)
+
+- **Punteros**:
+
+
+- **Estructuras de control**:
 
 
 - **Funciones**:
@@ -95,11 +110,6 @@ Fundamentos de programación preparada por libre
 
 - **Dependencias**:
 
-
-- **Punteros**:
-
-
-- **Estructuras de control**:
 
 
 - **Excepciones**:
