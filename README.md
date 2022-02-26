@@ -81,10 +81,17 @@ Fundamentos de programación preparada por libre
     - Carácter.
     - String. (Suelen ser cadenas de carácteres)
 
-- **Punteros**:
+- **Puntero**: Es un objeto del lenguaje de programación cuyo valor se refiere a otro valor almacenado en otra parte de la memoria usando su dirección. Es decir, un puntero referencia a una ubicación en memoria.
 
-
-- **Estructuras de control**:
+- **Estructuras de control**: Permiten modificar el flujo de ejecución de las instrucciones de un programa.
+  - Tipos:
+    - Elección:
+      - If-Then-Else.
+      - Switch-Case.
+    - Bucles:
+      - For.
+      - While / Do while.
+      - Foreach.
 
 
 - **Funciones**:
