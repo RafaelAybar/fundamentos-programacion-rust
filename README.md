@@ -42,7 +42,13 @@ Fundamentos de programación preparada por libre
   - **Sistema de ficheros**: Es el método que permite estrucutrar los datos que usa el sistema operativo para controlar cómo se gestionan los datos.
 
 
-  - **Memoria**:
+- **Memoria**:
+  - RAM: La memoria de acceso aleatorio es aquella que puede ser leída y cambiada en cualquier orden. En la RAM se cargan todas las instrucciones que ejecuta la CPU.
+    - Tipos de RAM:
+      -   SRAM (estática).
+      -   DRAM (dinámica)
+
+  - ROM: La memoria de sólo lectura, no se puede modificar y se usa para escribir el firmware que controla el hardware.
 
 
 - **Lenguaje de programación**:
@@ -59,6 +65,12 @@ Fundamentos de programación preparada por libre
     - Un paso / múltiples pasos.
     - JIT (Just in time): Este tipo de compiladores formamn parte de un intérprete y compila "partes del código" según se necesitan.
 
+- **Bytecode**: Es conjunto de instrucciones diseñado para ser ejecutado de forma eficiente por un intérprete de software, dado que no es legible por humanos.
+
+
+- **Variable**: Es un "almacenamiento abstracto" asociado a un nombre simbólco asociado a dicho espacio, el cual contiene un valor (conocido, o desconocido).
+  - Tipos:
+
 
 - **Funciones**:
 
@@ -70,11 +82,6 @@ Fundamentos de programación preparada por libre
 
 - **Recursividad**:
 
-- **Variable**:
-  - Tipos:
-
-
-- **Bytecode**:
 
 - **Refactorización**:
 
@@ -119,6 +126,5 @@ Fundamentos de programación preparada por libre
         - **Unitarios**:
     - **Gestión de trazas y errores**:
     - **Debugger**:
-
 
 ## Bibliografía.
