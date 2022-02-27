@@ -116,10 +116,10 @@ permitir y facilitar la documentación entre software. No están diseñadas para
     - RPC:
 
 
-- **ABI**:
+- **ABI**: Application Binary Interface, es una interfaz dentre dos módulos binarios de un programa. Una ABI define cómo se accede en código máquina las estructuras de datos  o "rutinas computacionales".
 
 
-- **Dependencias**:
+- **Dependencia**:
 
 
 
