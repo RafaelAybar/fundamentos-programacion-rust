@@ -94,18 +94,18 @@ Fundamentos de programación preparada por libre
       - Foreach.
 
 
-- **Funciones**:
+- **Función**: Parte de un subalgoritmo que forma parte del algoritmo principal.
 
 
-- **Paso por referencia**:
+- **Paso por referencia**: La información de la variable que se recibe por parámetro apunta a la misma dirección de memoria que la variable original, por lo que si se modifica en la función, se modifica la variable original.
 
 
-- **Paso por parámetro**:
+- **Paso por valor**: La información de la variable que se recibe por parámetro se almacena en una dirección de memoria diferente a la original, por lo que la original no se ve alterada.
 
-- **Recursividad**:
+- **Recursividad**: La recursividad es una técnica que consiste en expresar la solución de un problema mediante la aplicación de un algoritmo que se llama a sí mismo.
 
 
-- **Refactorización**:
+- **Refactorización**: Es el proceso mediante el cual se modifica el código fuente sin cambiar su comportamiento, para aplicar nuevas funcuionalidades o mejorar la consistencia / claridad del código.
 
 
 - **API**: Application programming interface,  es un tipo de interfaz de Software ofreciendo una capa de abstracción entre servicios. Uno de los principales propósitos es
@@ -117,13 +117,6 @@ permitir y facilitar la documentación entre software. No están diseñadas para
 
 
 - **ABI**: Application Binary Interface, es una interfaz dentre dos módulos binarios de un programa. Una ABI define cómo se accede en código máquina las estructuras de datos  o "rutinas computacionales".
-
-
-- **Dependencia**:
-
-
-
-- **Excepciones**:
 
 
 - **Test**:
