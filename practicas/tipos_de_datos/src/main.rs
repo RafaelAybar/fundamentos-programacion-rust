@@ -16,8 +16,12 @@ fn main() {
     para que no haya errores con espacios ni saltos de línea*/
 
     let numero: u8 = numero_cadena.trim().parse().expect("No es un número");
-    let resultado = numero + 7;
+    let  resultado = numero + 7;
     println!("El siguiente número se ha guardado como unsigned de 8 bits: {}", resultado);
 
-
+    /* Al guardarlo como unsigned de 8 bits, el valor máximo que admite es de 0 a 255.
+    probamos a cambiarlo a unsigned de 16 bits
+    */
+    let resultado: u16 = 15645;
+    println!("El siguiente número se ha guardado como unsigned de 16 bits: {}", resultado);
 }
