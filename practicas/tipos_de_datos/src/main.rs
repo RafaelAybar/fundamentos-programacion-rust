@@ -20,8 +20,13 @@ fn main() {
     println!("El siguiente número se ha guardado como unsigned de 8 bits: {}", resultado);
 
     /* Al guardarlo como unsigned de 8 bits, el valor máximo que admite es de 0 a 255.
-    probamos a cambiarlo a unsigned de 16 bits
+    probamos a cambiarlo a unsigned de 16 bits. En este ejemplo usamos shadowing
     */
     let resultado: u16 = 15645;
     println!("El siguiente número se ha guardado como unsigned de 16 bits: {}", resultado);
+
+    /* Ahora vamos a realizar un ejemplo con variable as...*/
+    // let resultado = resultado as u32;
+    println!("El siguiente número se ha guardado como unsigned de 32 bits: {}", resultado as u32);
+
 }
